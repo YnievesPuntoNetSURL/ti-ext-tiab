@@ -1,0 +1,12 @@
+{
+    "code": "ynievesdotnetteam.tiab",
+    "name": "TastyIgniter Automatic Breadcrumbs",
+    "description": "Easily add a Breadcrumbs to your website portal",
+    "version": "1.0.0",
+    "author": "YnievesDotNet Team",
+    "icon": {
+      "class": "fa fa-code",
+      "backgroundColor": "#3763EB",
+      "color": "#FFF"
+    }
+  }
